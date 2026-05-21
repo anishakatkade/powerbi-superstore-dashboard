@@ -35,7 +35,8 @@ The dashboard helps in business decision-making through interactive visualizatio
 ---
 
 ## 📷 Dashboard Screenshot
-<img width="960" height="680" alt="Dashboard" src="https://github.com/user-attachments/assets/1c7d2460-9153-4743-88d8-60046942de7b" />
+<img width="938" height="660" alt="Dashboard" src="https://github.com/user-attachments/assets/52151c15-4a3d-4bd7-ae2a-aacc2daca43b" />
+
 
 
 
